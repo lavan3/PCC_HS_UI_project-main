@@ -1,4 +1,4 @@
-# PCC_HS_UI_project.
+# UI_project.
 
 This is a project for a simple blog post
 
